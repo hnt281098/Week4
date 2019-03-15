@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Week4</string>
+    <string name="best_trip">BestTrip</string>
+    <string name="slogan">Best trip with us</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login_with_email">Login with email</string>
+    <string name="sign_up_with_email">Sign up with email</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="enter_the_location">Enter the location...</string>
+    <string name="where_your_heading">Where your heading?</string>
+    <string name="skip">Skip</string>
+    <string name="where_you_heading">Where you heading?</string>
+    <string name="loadding">Loadding...</string>
+    <string name="map">Map</string>
+</resources>
